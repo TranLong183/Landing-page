@@ -88,9 +88,20 @@ header {
   text-decoration: none;
 }
 
+.second__link {
+    color: var(--clr-text);
+    text-transform: capitalize;
+    text-decoration: none;
+  }
+
 .nav__link:hover,
 .nav__link:focus {
   color: var(--clr-accent);
+}
+
+.second__link:hover,
+.second__link:focus {
+  color: var(--clr-bg-light);
 }
 
 .secondary-images {
