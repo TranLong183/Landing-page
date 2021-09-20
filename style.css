@@ -179,6 +179,14 @@ footer {
     grid-column: 1 / 2;
   }
 
+  .sub-title{
+    grid-column: 1 / 2;
+    color: var(--clr-accent);
+    margin: 0;
+    font-size: 1.5rem;
+    margin-bottom: 1.5em;
+  }
+
   .description::after {
     content: "01";
     font-size: 50vw;
