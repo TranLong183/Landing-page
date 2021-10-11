@@ -5,11 +5,11 @@
 }
 
 :root {
-  --clr-icons: #929292;
-  --clr-text: #fff;
-  --clr-bg-dark: #242424;
-  --clr-bg-light: #3b3b3b;
-  --clr-accent: #ff7600;
+  --clr-icons: #204969;
+  --clr-text: #204969;
+  --clr-bg-dark: #DADADA;
+  --clr-bg-light: #FFF7F7;
+  --clr-accent: #08FFC8;
 }
 
 body {
